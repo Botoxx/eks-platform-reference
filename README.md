@@ -56,4 +56,4 @@ EKS Cluster
 
 ---
 
-*Part of the [Apex Lab](https://cloudgeist.cloud) cloud engineering portfolio — [github.com/Botoxx](https://github.com/Botoxx).*
+*Part of the [cloudgeist](https://cloudgeist.cloud) cloud engineering portfolio — [github.com/Botoxx](https://github.com/Botoxx).*
